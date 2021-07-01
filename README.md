@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/_-8Fbb_CeyA/0.jpg)](http://www.youtube.com/watch?v=_-8Fbb_CeyA "Video Title")
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tamirelazar/Pantheremin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
