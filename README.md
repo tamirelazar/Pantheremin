@@ -13,6 +13,10 @@ Parametric pattern design, created using Grasshopper on Rhino. The algorithmical
 Using arduino, we converted the signal from the proximity IR sensors into MIDI messages. Those were channelled to Ableton Live for producing actual sounds, designed by us from available plugins.
 The MIDI messages were also used to create a OSC message signal, which was sent to the visualization monitor, influencing the speed and color of the waves presented on it.
 
+### Fun
+
+Yes, it is very fun.
+
 ### Created by
 
 Tamir, Shahar and Daniella.
